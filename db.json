@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mostafa",
+    "age":25 ,
+    "salary": 2000
+  },
+  {
+    "id": 2,
+    "name": "Mojdsoa",
+    "age": 40,
+    "salary": 12000
+  },
+   {
+    "id": 1,
+    "name": "Mostafa",
+    "age":25 ,
+    "salary": 8000
+  },
+   {
+    "id": 1,
+    "name": "Mostafa",
+    "age":25 ,
+    "salary": 2000
+  },
+ {
+    "id": 56,
+    "name": "Mostbvyasdvbydsaafa",
+    "age": 89,
+    "salary": 500
+  }
+]
